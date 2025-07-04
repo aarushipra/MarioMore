@@ -19,6 +19,7 @@ int main(void)
         if (i==m)
 
         {
+            
             for (j=0; j<height; j++)
             {
                 if (j>=height-i-1)
